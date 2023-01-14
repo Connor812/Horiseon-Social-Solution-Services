@@ -19,3 +19,7 @@ To build this webpage I colabarated with the University of Toronto.
 
 ## License
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+
+## Image of webpage
+
+![alt text](./assets/images/horiseo.png)
